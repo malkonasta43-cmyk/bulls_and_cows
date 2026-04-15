@@ -9,3 +9,4 @@
 ![Static Badge](https://img.shields.io/badge/python--telegram--bot-yellow)
 ![Static Badge](https://img.shields.io/badge/SQLite-aiosqlite-green)
 ![Static Badge](https://img.shields.io/badge/python-dotenv1.0%2B-success)
+![Static Badge](https://img.shields.io/badge/license-MIT-red)
